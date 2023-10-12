@@ -1,5 +1,6 @@
 # Pengalaman-Belajar
-Bismillah, latihan 2 dicoding github
+Bismillah, latihan 2 dicoding github <br>
+--
 10 September 2023
 Belajar kelas dasar structured query language (SQL). (Progres 100%) 
 - Belajar tentang apa itu data, informasi, jenis-jenis DBMS, Table, DDL, DML dan lain lain.
