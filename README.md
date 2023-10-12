@@ -2,6 +2,12 @@
 Bismillah, latihan 2 dicoding github
 ==
 10 September 2023
-Belajar kelas dasar structured query language (SQL). (Progres 21%)
-* Belajar tentang apa itu data, informasi, jenis-jenis DBMS, Table, DDL, DML dan lain lain.
-* Belajar bagaimana menggunakan aplikasi DB Browser SQLite
+Belajar kelas dasar structured query language (SQL). (Progres 100%)
+- Belajar tentang apa itu data, informasi, jenis-jenis DBMS, Table, DDL, DML dan lain lain.
+- Belajar bagaimana menggunakan aplikasi DB Browser SQLite
+==
+11 Oktober 2023
+Belajar Kelas dasar Git dengan Github. (Progress 39%)
+- Belajar tentang pembuatan dan pengoperasian akun github
+- Belajar teori tentang git dan sejarahnya
+
